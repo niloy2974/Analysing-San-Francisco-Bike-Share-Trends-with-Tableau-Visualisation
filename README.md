@@ -1,9 +1,7 @@
 # Analysing-San-Francisco-Bike-Share-Trends-with-Tableau-Visualisation
 This Tableau project explores San Francisco’s bike share system through interactive dashboards that analyse station-level usage, weather patterns, and customer behaviour. The story provides valuable insights for urban planners, bike share operators, and policymakers to optimise services, improve infrastructure, and enhance user experiences.
-## Dataset Description
-This dataset contains trip records, station details, weather conditions, and user information from the San Francisco Bay Area Bike Share program. It includes attributes such as ride duration, station-to-station routes, customer type, and daily weather metrics. [Kaggle Dataset Link]
-## Tableau Visualisation
-The interactive Tableau story explores bike share usage across time, weather, and user behaviour. It can be accessed here: [Tableau Visualisation Link]
+## Dataset and Tableau Visualisation
+This dataset contains trip records, station details, weather conditions, and user information from the San Francisco Bay Area Bike Share program. It includes attributes such as ride duration, station-to-station routes, customer type, and daily weather metrics [Kaggle Dataset Link]. The interactive Tableau story explores bike share usage across time, weather, and user behaviour. It can be accessed here: [Tableau Visualisation Link]
 # Dashboards and Visualisations
 ## Weather and User Trends: Station Patterns
 ![Weather and User Trends: Station Patterns]()

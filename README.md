@@ -1,0 +1,2 @@
+# Analysing-San-Francisco-Bike-Share-Trends-with-Tableau-Visualisation
+This Tableau project explores San Francisco’s bike share system through interactive dashboards that analyse station-level usage, weather patterns, and customer behaviour. The story provides valuable insights for urban planners, bike share operators, and policymakers to optimise services, improve infrastructure, and enhance user experiences.
